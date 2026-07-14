@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Office Temporary Files
+~$*
+.~lock.*
+
+# OS generated files
+thumbs.db
+db.files
+.DS_Store
+
+# Local AppData and Geminis
+.gemini/
+scratch/
+extract_docx.py
+extract_pptx.py
+extract_notebook.py
+print_insights.py
+print_all_cells.py
+inspect_data.py
+inspect_other_csvs.py
+inspect_xlsx.py
+search_sql.py
+check_unique.py
+reorganize.py
+merge_notebooks.py
